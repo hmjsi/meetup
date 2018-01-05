@@ -5,4 +5,4 @@ Repository ini dipergunakan untuk rangkuman hasil meetup yang telah dilakukan, d
 juga dapat dilampirkan file seperti dokumen word atau gambar dan lainnya jika ada.
 
 Jika telah dilakukan meetup mohon agar menambah daftar meetup dibawah ini dengan format `Day #1, Day #2, ... Day #n`:
-1. Day [#1](Day #1)
+1. Day [#1](/Day-1)
